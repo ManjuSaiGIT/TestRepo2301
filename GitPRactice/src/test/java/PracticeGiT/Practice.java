@@ -8,6 +8,7 @@ public class Practice {
 		
 		
 		//push commit2
+		//pull
 
 	}
 
