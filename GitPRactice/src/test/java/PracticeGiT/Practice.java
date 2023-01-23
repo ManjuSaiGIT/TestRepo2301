@@ -6,6 +6,8 @@ public class Practice {
 		// TODO Auto-generated method stub
 		System.out.println("GIT practice");
 		
+		
+		//push commit2
 
 	}
 
