@@ -9,9 +9,7 @@ public class Practice {
 		
 		//push commit2
 		//pull
-		
-		//push commit 3
-
-	}
+		//push3
+}
 
 }
